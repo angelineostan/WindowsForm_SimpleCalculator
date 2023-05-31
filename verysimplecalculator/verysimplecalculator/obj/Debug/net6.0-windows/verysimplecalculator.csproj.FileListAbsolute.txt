@@ -1,0 +1,17 @@
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\bin\Debug\net6.0-windows\verysimplecalculator.exe
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\bin\Debug\net6.0-windows\verysimplecalculator.deps.json
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\bin\Debug\net6.0-windows\verysimplecalculator.runtimeconfig.json
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\bin\Debug\net6.0-windows\verysimplecalculator.dll
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\bin\Debug\net6.0-windows\verysimplecalculator.pdb
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\verysimplecalculator.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\verysimplecalculator.Form1.resources
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\verysimplecalculator.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\verysimplecalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\verysimplecalculator.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\verysimplecalculator.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\verysimplecalculator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\verysimplecalculator.dll
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\refint\verysimplecalculator.dll
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\verysimplecalculator.pdb
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\verysimplecalculator.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Documents\Codes\verysimplecalculator\verysimplecalculator\obj\Debug\net6.0-windows\ref\verysimplecalculator.dll
